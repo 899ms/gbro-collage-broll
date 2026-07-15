@@ -39,7 +39,7 @@ Turn a ~5s voiceover line into a premium editorial paper-collage assemble-from-e
 把整个目录放进你的 agent skills 目录（例如 `~/.agents/skills/` 或 `~/.claude/skills/`）：
 
 ```bash
-git clone <repo-url> ~/.agents/skills/gbro-collage-broll
+git clone https://github.com/pyang5166/gbro-collage-broll.git ~/.agents/skills/gbro-collage-broll
 ```
 
 ## 使用
