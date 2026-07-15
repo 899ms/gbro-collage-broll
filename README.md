@@ -1,5 +1,12 @@
 # gbro-collage-broll
 
+<p align="center">
+  <img src="assets/demo-purple.gif" width="180" alt="深紫底：多人协作压出科幻胶片">
+  <img src="assets/demo-yellow.gif" width="180" alt="芥末黄底：错误被印刷机批量放大">
+  <img src="assets/demo-red.gif" width="180" alt="红底：导演之手摆放棋盘走位">
+  <img src="assets/demo-teal.gif" width="180" alt="青绿底：剪刀裁开镜头轨道">
+</p>
+
 把一句约 5 秒的口播文稿，压成一个 sharp visual idea，再生成高级编辑风**半调纸拼贴（halftone paper-collage）组装动画** B-roll。
 
 Turn a ~5s voiceover line into a premium editorial paper-collage assemble-from-empty B-roll clip, powered by Gemini Omni Flash first/last-frame video generation.
